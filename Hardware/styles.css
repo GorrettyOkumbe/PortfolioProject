@@ -1,13 +1,14 @@
 body {
-	background-color: powderblue;
+	background-color: rgba(241, 239, 245, 0.581);
 	color: black;
+	background-image: url('./images/WhatsApp\ Image\ 2022-11-24\ at\ 22.22.53.jpeg')
 }
   nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: blue;
+	background-color: rgb(244, 244, 249);
 
 }
 
@@ -29,4 +30,9 @@ li a:hover{
 body p {
 	font-family: "Times New Roman", Times, serif;
 	font-size: 16px;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
 }
