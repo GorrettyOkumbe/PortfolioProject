@@ -89,8 +89,3 @@ body h1.hard{
 .offer-display h1{
 	color: #088178;
 }
-
-body.items.gallery-content{
-	display: flex;
-	align-items: row;
-}
