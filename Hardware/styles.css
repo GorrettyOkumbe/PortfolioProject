@@ -74,7 +74,7 @@ body h1.hard{
 }
 
 .offer-display{
-	background-image: url("images/web-cover.jpeg");
+	background-image: url("images/crm.png");
 	height: 90vh;
 	width: 100%;
 	background-size: cover;
@@ -88,4 +88,9 @@ body h1.hard{
 
 .offer-display h1{
 	color: #088178;
+}
+
+body.items.gallery-content{
+	display: flex;
+	align-items: row;
 }
