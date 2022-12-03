@@ -1,0 +1,53 @@
+body{
+    background-color: #fff;
+}
+
+body h1{
+    text-align: center;
+    color: rgb(19, 127, 73);
+}
+
+.sec{
+    position: absolute;
+    width: 846px;
+    height: 376px;
+    left: 134px;
+    top: 168px;
+    display: flex;
+
+
+}
+
+.para-graph p{
+    text-align: center;
+    text-shadow: #75e4b7;
+    position: absolute;
+    width: 405.98px;
+    height: 400px;
+    left: 1011px;
+    top: 132.77px;
+
+    background: #75e4b7;
+    transform: rotate(-0.81deg);
+    border-radius: 30px;
+
+}
+.dev-1 a img{
+    border-radius: 60px;
+}
+.dev-2 a img{
+    border-radius: 60px;
+}
+
+.dev-3 a img{
+    border-radius: 60px;
+}
+
+.dev-1 p{
+    color: blue;
+    padding-right: 20px;
+}
+
+.dev-2 p{
+    padding-right: 20px;
+}

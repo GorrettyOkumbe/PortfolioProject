@@ -161,3 +161,7 @@ body h2{
   grid-column-end: 5;
   grid-row-start: 8;
   grid-row-end: 11;
+}
+p{
+	text-align: center;
+}
