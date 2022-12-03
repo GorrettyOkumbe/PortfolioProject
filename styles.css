@@ -100,8 +100,6 @@ body h2{
     grid-template-rows: repeat(2, 10vw);
     grid-gap: 50px;
     place-items: center;
-    margin-left: 20px;
-   /*margin-right: 50px;*/
  }   
 .g-card--1 {
   grid-column-start: 1;
