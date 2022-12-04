@@ -1,5 +1,5 @@
  body {
-	background-color: rgba(241, 239, 245, 0.581);
+	background-color: #fff;
 	color: black;
 	width: 100%;
 } 
@@ -80,7 +80,7 @@ body h2{
 
 .offer-display{
 	background-image: url("images/crm.png");
-	height: 90vh;
+	height: 70vh;
 	width: 100%;
 	background-size: cover;
 	background-position: 25px right 0;
@@ -118,7 +118,15 @@ body h2{
 .g-card--1 img{
 	padding-right: 1000px;
 	padding-top: 80px;
+	padding-left: 50px;
 }
+
+.g-card--1 h3{
+	text-align-last: auto;
+	text-align: start;
+	padding-left: 90px;
+}
+
 
 .g-card--2 {
   grid-column-start: 2;
@@ -132,7 +140,7 @@ body h2{
   /* grid-row: 1 / span 2; */
 }
 .g-card--2 {
-	padding-right: 500px;
+	padding-right: 350px;
 	padding-top: 80px;
 }
 
@@ -152,7 +160,7 @@ body h2{
 }
 
 .g-card--3{
-	padding-right: 30px;
+	padding-left: 100px;
 	padding-top: 80px;
 }
 
@@ -170,8 +178,9 @@ body h2{
 }
 
 .g-card--4 {
-	padding-right: 1000px;
-	padding-top: 80px;
+	padding-right: 900px;
+	padding-top: 100px;
+	padding-left: 30px;
 }
 
 .g-card--5 {
@@ -189,8 +198,8 @@ body h2{
 }
 
 .g-card--5{
-	padding-right: 500px;
-	padding-top: 80px;
+	padding-right: 350px;
+	padding-top: 100px;
 
 }
 
@@ -203,6 +212,6 @@ body h2{
 }
 
 .g-card--6{
-	padding-right: 30px;
-	padding-top: 80px;
+	padding-top: 100px;
+	padding-left: 100px;
 }
