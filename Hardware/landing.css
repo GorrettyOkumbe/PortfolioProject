@@ -21,7 +21,7 @@ body h1{
 .para-graph p{
     text-align: center;
     text-shadow: #75e4b7;
-    color: "blue";
+    color: #0000FF;
     font-weight: bold;
     font-size: 25px;
     position: absolute;
@@ -53,3 +53,12 @@ body h1{
 .dev-2 p{
     padding-right: 20px;
 }
+
+.container{
+	height: 200px;
+        width: 500px;
+        border: 2px solid black;
+	position: absolute;
+	left: 100px;
+	bottom: 150px;
+        }
