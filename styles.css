@@ -96,19 +96,19 @@ body h2{
 }
 .gallery-content {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 10vw);
-    grid-gap: 50px;
+    /*grid-gap: 30px;*/
     place-items: center;
  }   
 .g-card--1 {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 3;
-  padding-right: 500px;
-  padding-top: 80px;
-  border-radius: 30px;
+  /*padding-right: 500px;*/
+  /*padding-top: 80px;*/
+  /*border-radius: 30px;*/
 
   /** Alternative Syntax **/
   /* grid-column: 1 / span 2;  */
@@ -117,10 +117,10 @@ body h2{
 
 .g-card--2 {
   grid-column-start: 2;
-  grid-column-end: 5;
+  grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 3;
-  padding-top: 80px;
+  /*padding-top: 80px;*/
 
   /** Alternative Syntax **/
   /* grid-column: 3 / span 2;  */
@@ -128,14 +128,14 @@ body h2{
 }
 
 .g-card--3 {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 4;
-  grid-row-end: 7;
-  padding-right: 500px;
-  padding-top: 80px;
-  border-radius: 30px;
-  padding-top: 80px;
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  /*padding-right: 500px;*/
+  /*padding-top: 80px;*/
+  /*border-radius: 30px;*/
+  /*padding-top: 80px;*/
 
   /** Alternative Syntax **/
   /* grid-column: 5 / span 4;
@@ -143,11 +143,11 @@ body h2{
 }
 
 .g-card--4 {
-  grid-column-start: 2;
-  grid-column-end: 5;
-  grid-row-start: 4;
-  grid-row-end: 7;
-  padding-top: 80px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 6;
+  grid-row-end: 8;
+  /*padding-top: 80px;*/
 
   /** Alternative Syntax **/
   /* grid-column: 1 / span 4;  */
@@ -155,13 +155,13 @@ body h2{
 }
 
 .g-card--5 {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 8;
-  grid-row-end: 11;
-  padding-right: 500px;
-  padding-top: 80px;
-  border-radius: 30px;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 6;
+  grid-row-end: 8;
+  /*padding-right: 500px;*/
+  /*padding-top: 80px;*/
+  /*border-radius: 30px;*/
 
   /** Alternative Syntax **/
   /* grid-column: 1 / span 4; */
@@ -169,9 +169,9 @@ body h2{
 }
 
 .g-card--6 {
-  grid-column-start: 2;
+  grid-column-start: 3;
   grid-column-end: 5;
-  grid-row-start: 8;
-  grid-row-end: 11;
-  padding-top: 80px;
+  grid-row-start: 6;
+  grid-row-end: 8;
+  /*padding-top: 80px;*/
 }
