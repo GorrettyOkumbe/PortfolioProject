@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+.all{
+    display: flex;
+    justify-content: center;
+}
+
+.clear img{
+    padding-right: 300px;
+    padding-top: 80px;
+    border-radius: 30px;
+}
+
+.hack img{
+    padding-top: 80px;
+}
+
+.position{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+}
+
+.two img{
+    padding-right: 300px;
+    padding-top: 80px;
+    border-radius: 30px;
+}
+
+.three img{
+    padding-top: 80px;
+}
+
+.foot{
+    text-align: center;
+    padding-top: 80px;
+}
