@@ -21,9 +21,10 @@ body h1{
 .para-graph p{
     text-align: center;
     text-shadow: #75e4b7;
-    color: #0000FF;
-    font-weight: bold;
-    font-size: 25px;
+    color: #000000;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
     position: absolute;
     width: 405.98px;
     height: 400px;
@@ -57,8 +58,45 @@ body h1{
 .container{
 	height: 200px;
         width: 500px;
-        border: 2px solid black;
 	position: absolute;
-	left: 100px;
-	bottom: 150px;
+	left: 400px;
+	top: 500px;
         }
+
+.btn {
+      background-color: #c2fbd7;
+      border-radius: 100px;
+      box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+      color: green;
+      cursor: pointer;
+      display: inline-block;
+      font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+      padding: 7px 20px;
+      text-align: center;
+      text-decoration: none;
+      transition: all 250ms;
+      border: 0;
+      font-size: 16px;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+ }
+
+.container p{
+              font-family: "Times New Roman", Times, serif;
+	      font-style: italic;
+              font-size: 25px;
+              text-align: center;
+              justify-content: center;
+	      color: green;
+
+}
+
+.developers{  
+              font-family: "Times New Roman", Times, serif;
+              font-size: 25px;
+              color: black;
+}	      
+
+
+
