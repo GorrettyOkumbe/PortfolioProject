@@ -1,4 +1,4 @@
- body {
+body {
 	background-color: #fff;
 	color: black;
 	width: 100%;
@@ -9,13 +9,11 @@
 	padding: 0;
 	overflow: hidden;
 	background-color: rgb(244, 244, 249);
-
 }  */
 
 /* li {
 	float: left;
 }
-
 li a {
 	display: block;
 	color: black;
@@ -27,12 +25,6 @@ li a {
 /* li a:hover{
 	background-color: powderblue;
 }*/
-body p.para{
-	font-family: "Times New Roman", Times, serif;
-	font-size: 16px;
-	text-align: center;
-	justify-content: center;
-}
 
 body h1.hard{
 	text-align: center;
@@ -79,7 +71,7 @@ body h2{
 }
 
 .offer-display{
-	background-image: url("images/crm.png");
+	background-image: url("images/cover-sized.jpg");
 	height: 70vh;
 	width: 100%;
 	background-size: cover;
@@ -100,6 +92,7 @@ body h2{
     grid-template-rows: repeat(2, 10vw);
     /*grid-gap: 30px;*/
     place-items: center;
+	padding-top: 50px;
  }   
 .g-card--1 {
   grid-column-start: 1;
@@ -214,4 +207,36 @@ body h2{
 .g-card--6{
 	padding-top: 100px;
 	padding-left: 100px;
+}
+
+.offers{
+	padding-top: 700px;
+	text-align: center;
+	justify-items: center;
+	justify-content: center;
+	padding-left: 200px;
+}
+
+.items h2{
+	padding-top: 150px;
+	text-align: center;
+	color: #813a08;
+}
+
+.foot p{
+	padding-top: 80px;
+	text-emphasis: bold;
+	text-align: center;
+}
+
+.g-card--1 p{
+	text-align-last: auto;
+	text-align: start;
+	padding-left: 90px;
+}
+
+.g-card--1 a{
+	text-align-last: auto;
+	text-align: start;
+	padding-left: 90px;
 }
