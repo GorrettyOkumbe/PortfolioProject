@@ -1,9 +1,10 @@
 # Hardware Online store
 
-An image of CRM hardware website
-The CRM hardware online stores enables customers to access hardware tools at the convience of thier house hold.
+An image of CRM hardware website.
 
 ![alt text](images/screenshot.jpg)
+
+The CRM hardware online stores enables customers to access hardware tools at the convience of thier house hold.
 
 ## Introduction [our inspiration story]
 
