@@ -56,8 +56,8 @@ It’s not completely dependent on a specific setting:
 
 
 Contributing: Authors
-Mary Okumbe  [@mary] (https://github.com/GorrettyOkumbe)
-Careen Naitore [@careen] (https://github.com/CareenNaitore)
+Mary Okumbe  [@mary](https://github.com/GorrettyOkumbe)
+Careen Naitore [@careen](https://github.com/CareenNaitore)
 Rony Opunga [@rony](https://github.com/OPunga)
 
 [Homepage](https://github.com/GorrettyOkumbe/PortfolioProject)
