@@ -21,9 +21,9 @@ Check out CRM Hardware
 
 
 Author(s) linkedin:
-1. (Careen)[https://www.linkedin.com/in/careen-naitore-016069230/]
-2. Rony[https://www.linkedin.com/in/ronny-opunga-ab5070167/]
-3. Mary[https://www.linkedin.com/in/ronny-opunga-ab5070167/]
+1. [Careen](https://www.linkedin.com/in/careen-naitore-016069230/)
+2. [Rony](https://www.linkedin.com/in/ronny-opunga-ab5070167/)
+3. [Mary](https://www.linkedin.com/in/ronny-opunga-ab5070167/)
 
 Installation
 There are 2 ways to install CRM hardware online shop :
@@ -56,10 +56,11 @@ It’s not completely dependent on a specific setting:
 
 
 Contributing: Authors
-Mary Okumbe  @mary [https://github.com/GorrettyOkumbe]
-Careen Naitore @careen[https://github.com/CareenNaitore]
-Rony Opunga @rony[https://github.com/OPunga]
-owinnie.github.io/Triolingo/
+Mary Okumbe  [@mary] (https://github.com/GorrettyOkumbe)
+Careen Naitore [@careen] (https://github.com/CareenNaitore)
+Rony Opunga [@rony](https://github.com/OPunga)
+
+[Homepage](https://github.com/GorrettyOkumbe/PortfolioProject)
 
 Roles
 
