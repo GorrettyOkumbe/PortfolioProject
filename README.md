@@ -3,6 +3,8 @@
 An image of CRM hardware website
 The CRM hardware online stores enables customers to access hardware tools at the convience of thier house hold.
 
+![alt text](image.jpg)
+
 Introduction [our inspiration story]
 I am an online ecomerence store built for the supply of hardware tools.
 I was created to be used by: 
@@ -56,9 +58,9 @@ It’s not completely dependent on a specific setting:
 
 
 Contributing: Authors
-Mary Okumbe  [@mary](https://github.com/GorrettyOkumbe)
-Careen Naitore [@careen](https://github.com/CareenNaitore)
-Rony Opunga [@rony](https://github.com/OPunga)
+1.Mary Okumbe  [@mary](https://github.com/GorrettyOkumbe)
+2.Careen Naitore [@careen](https://github.com/CareenNaitore)
+3.Rony Opunga [@rony](https://github.com/OPunga)
 
 [Homepage](https://github.com/GorrettyOkumbe/PortfolioProject)
 
