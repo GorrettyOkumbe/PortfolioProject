@@ -59,10 +59,11 @@ Relevance / scope
 It’s not completely dependent on a specific setting:
 
 
-Contributing: Authors
-1.Mary Okumbe  [@mary](https://github.com/GorrettyOkumbe)
-2.Careen Naitore [@careen](https://github.com/CareenNaitore)
-3.Rony Opunga [@rony](https://github.com/OPunga)
+Contributing Authors:
+
+1. Mary Okumbe  [@mary](https://github.com/GorrettyOkumbe)
+2. Careen Naitore [@careen](https://github.com/CareenNaitore)
+3. Rony Opunga [@rony](https://github.com/OPunga)
 
 [Homepage](https://github.com/GorrettyOkumbe/PortfolioProject)
 
