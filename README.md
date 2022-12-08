@@ -3,11 +3,11 @@
 An image of CRM hardware website
 The CRM hardware online stores enables customers to access hardware tools at the convience of thier house hold.
 
-![alt text](image.jpg)
+![alt text](images/screenshot.jpg)
 
-Introduction [our inspiration story]
+##Introduction [our inspiration story]
+
 I am an online ecomerence store built for the supply of hardware tools.
-
 I was created to be used by: 
 Three Developers:
 1. Mary Okumbe
