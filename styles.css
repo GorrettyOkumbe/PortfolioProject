@@ -49,8 +49,8 @@ body h2{
 }
 
 .offer-display{
-	background-image: url("images/crm.png");
-	height: 100vh;
+	background-image: url("images/screenshot.jpg");
+	height: 70vh;
 	width: 100%;
 	background-size: cover;
 	background-position: 25px right 0;
