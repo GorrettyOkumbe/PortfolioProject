@@ -21,7 +21,7 @@ Check out CRM Hardware
 
 
 Author(s) linkedin:
-1. Careen[https://www.linkedin.com/in/careen-naitore-016069230/]
+1. (Careen)[https://www.linkedin.com/in/careen-naitore-016069230/]
 2. Rony[https://www.linkedin.com/in/ronny-opunga-ab5070167/]
 3. Mary[https://www.linkedin.com/in/ronny-opunga-ab5070167/]
 
