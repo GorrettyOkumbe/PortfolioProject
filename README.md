@@ -5,7 +5,7 @@ The CRM hardware online stores enables customers to access hardware tools at the
 
 ![alt text](images/screenshot.jpg)
 
-##Introduction [our inspiration story]
+## Introduction [our inspiration story]
 
 I am an online ecomerence store built for the supply of hardware tools.
 I was created to be used by: 
