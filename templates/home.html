@@ -1,13 +1,13 @@
 {% block head %}  
-<link rel="stylesheet" href="{{url_for('static', filename='css/styles.css')}}">
-       <script src="Gallery.js"></script>
+	<link rel="stylesheet" href="{{url_for('static', filename='css/styles.css')}}">
+	<script src={{ url_for('static', filename='scripts/Gallery.js') }}"></script>
 {% endblock %}
 
 
 {% block body%}  
     <header class="header">
       <section>
-        <a href="#"><img src="images/crm.png" class="logo" width="125px" height="125px"  alt=""></a>
+		<a href="#"><img src="{{ url_for('static', filename='images/crm.png')}}" class="logo" width="125px" height="125px"  alt=""></a>
       </section>
       <nav class="navbar">
         <ul>
@@ -41,14 +41,14 @@
 
         <div class="gallery-content">
           <div class="g-card--1">
-            <img src="images/hack.jpeg" alt="Net Error"width="225" height="225" />
+		    <img src="{{ url_for('static', filename='images/hack.jpeg')}}" alt="Net Error"width="225" height="225" />
             <h3>Hand saw</h3>
             <p>Ksh 1500</p>
             <a href="#" classs="btn">BUY NOW</a>
           </div>     
           
           <div class="g-card--2">
-            <img src="images/main2.jpg" alt="Net Error" width="225" height="225"/>
+		    <img src="{{ url_for('static', filename='images/main2.jpg')}}" alt="Net Error" width="225" height="225"/>
             <h3>Hammer</h3>
             <p>Ksh 2000</p>
             <a href="#" classs="btn">BUY NOW</a>
@@ -56,14 +56,14 @@
 
          
           <div class="g-card--3">
-            <img src="images/hack.jpeg" alt="Net Error" width="225" height="225"/>
+		    <img src="{{ url_for('static', filename='images/hack.jpeg')}}" alt="Net Error" width="225" height="225"/>
             <h3>pliers</h3>
             <p>Ksh 700</p>
             <a href="#" classs="btn">BUY NOW</a>
           </div>
 
           <div class="g-card--4">
-            <img src="images/main4.jpg" alt="Net Error" width="225" height="225"/>
+		    <img src="{{url_for('static', filename='images/main4.jpg')}}" alt="Net Error" width="225" height="225"/>
             <h3>leveller</h3>
             <p>Ksh 650</p>
             <a href="#" classs="btn">BUY NOW</a>
@@ -71,7 +71,7 @@
 
           
           <div class="g-card--5">
-            <img src="images/hack.jpeg" alt="Net Error" width="225" height="225"/>
+		    <img src="{{url_for('static', filename='images/hack.jpeg')}}" alt="Net Error" width="225" height="225"/>
             <h3>Hack</h3>
             <p>Ksh 700</p>
             <a href="#" classs="btn">BUY NOW</a>
@@ -79,7 +79,7 @@
 
           
           <div class="g-card--6">
-            <img src="images/main6.jpeg" alt="Net Error" width="225" height="225"/>
+		    <img src="{{url_for('static', filename='images/main6.jpeg')}}" alt="Net Error" width="225" height="225"/>
             <h3>wheelbarrow</h3>
             <p>Ksh 700</p>
             <a href="#" classs="btn">BUY NOW</a>
