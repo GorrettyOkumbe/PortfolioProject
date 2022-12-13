@@ -13,5 +13,13 @@ def index():
 def home():
     return render_template("home.html")
 
+@app.route("/about/")
+def about():
+    return render_template("About.html")
+
+@app.route("/gallery/")
+def gallery():
+    return render_template("Gallery.html")
+
 if __name__ == "__main__":
     app.run(debug=True)

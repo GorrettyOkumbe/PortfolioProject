@@ -1,47 +1,44 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>CRM STORE</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="About.css">
-    </head>
-    <body>
+{% extends "base.html"%}
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/About.css')}}">
+{% endblock %}
+
+{%block body%}
         <h1>#YOUR NO.1 ONLINE STORE</h1>
         <div class="all">
             <div class="clear">
-                <img src="images/hammer2.jpeg">
+			<img src="{{url_for('static', filename='images/hammer2.jpeg')}}">
                 <h4>Hammer</h4>
                 <p>with strong tip</p>
                 <p>KSH 1000</p>
             </div>
             <div class="hack">
-                <img src="images/hack.jpeg">
+			<img src="{{url_for('static', filename='images/hack.jpeg')}}">
                 <h4>Hack</h4>
                 <p>With strong handle</p>
                 <p>KSH 1200</p>
             </div>
             <div class="imge3">
-                <img src="images/hack.jpeg">
+			<img src="{{url_for('static', filename='images/hack.jpeg')}}">
                 <h4>Hack</h4>
                 <p>ksh 4000</p>
             </div>
         </div>
        <div class="position">
         <div class="two">
-            <img src="images/handsaw2.jpg" width="225" height="225">
+		  <img src="{{url_for('static', filename='images/handsaw2.jpg')}}" width="225" height="225">
             <h4>handsaw</h4>
             <p>Hand friendly</p>
             <p>KSH 1000</p>
 
         </div>
         <div class="three">
-            <img src="images/ply.jpeg">
+		  <img src="{{url_for('static', filename='images/ply.jpeg')}}">
             <h4>Soft Handle</h4>
             <p>KSH 450</p>
         </div>
         <div class="imge4">
-            <img src="images/hack.jpeg">
+		  <img src="{{url_for('static', filename='images/hack.jpeg')}}">
             <h4>Hack</h4>
             <p>ksh 4000</p>
         </div>
@@ -51,5 +48,4 @@
             <p>Copyright  CRM 2022 || &copy all right reserved.</p>
         </div>
        </footer>
-    </body>
-</html>
+{% endblock %}
